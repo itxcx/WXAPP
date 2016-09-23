@@ -78,5 +78,5 @@
     </view>
 </view>
 ```   
-欢迎大家关注我的微信公众号 
+欢迎大家关注我的微信公众号    
 ![](https://github.com/Eastwu5788/WXAPP/raw/master/images/wechat.jpg)
