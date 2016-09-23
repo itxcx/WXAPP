@@ -2,7 +2,7 @@
 最近微信小程序比较火，正好昨天弄到了破解版[微信web开发工具](https://github.com/gavinkwoe/weapp-ide-crack)，所以今天正好试试手。由于我是做ios的，所以对H5和CSS方面不太了解，代码里面写的丑的地方欢迎吐槽。
 
 ##1.效果演示  
-![WXEXE.gif](http://upload-images.jianshu.io/upload_images/1904031-5c974939b13e6b43.gif?imageMogr2/auto-orient/strip)   
+![](https://github.com/Eastwu5788/WXAPP/raw/master/images/WXEXE.gif)  
 
 ##2.微信小程序介绍    
 微信小程序的一个页面主要分成三个部分.js文件.wxml文件和.wxss文件   
@@ -79,4 +79,4 @@
 </view>
 ```   
 欢迎大家关注我的微信公众号 
-![qrcode_for_gh_c3cd7518dd64_1280.jpg](http://upload-images.jianshu.io/upload_images/1904031-ac57a7341be9d3bb.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](https://github.com/Eastwu5788/WXAPP/raw/master/images/wechat.jpg)
